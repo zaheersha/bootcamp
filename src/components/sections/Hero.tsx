@@ -61,7 +61,7 @@ export default function Hero() {
             className="flex flex-col sm:flex-row items-center justify-center gap-4"
           >
             <a 
- href="https://forms.gle/aufMVzJpNYYH9D687"
+ href="https://forms.gle/37cJQQfyEjJpNtR16"
   target="_blank"
                 className="w-full sm:w-auto px-8 py-4 rounded-full bg-primary text-white font-semibold text-lg flex items-center justify-center gap-2 hover:bg-primary/90 transition-all hover:shadow-[0_0_30px_rgba(249,115,22,0.3)] group"
             >
