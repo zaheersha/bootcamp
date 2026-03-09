@@ -1,0 +1,313 @@
+Create a modern, responsive landing page for a tech training company called "EVITernship".
+
+The purpose of this page is to showcase a 6–8 month Job Guarantee Bootcamp program and present it in colleges to attract students.
+
+The landing page should be highly modern, animated, and responsive for mobile, tablet, and desktop.
+
+Use:
+React
+Tailwind CSS
+Framer Motion for animations
+Clean modern UI similar to Stripe / Apple landing pages.
+
+Use smooth animations, hover effects, and scroll animations.
+
+Primary colors:
+Dark Blue
+Orange
+White
+
+Style:
+Tech startup look
+Glass cards
+Gradient backgrounds
+Smooth section transitions
+
+The website should contain the following sections:
+
+------------------------------------------------
+
+1. NAVBAR
+
+Sticky transparent navbar.
+
+Left side:
+EVITernship logo
+
+Right side menu:
+Home
+Program
+Achievements
+Internships
+Partners
+Projects
+Contact
+
+CTA Button:
+Enroll Now
+
+Mobile:
+Hamburger menu.
+
+------------------------------------------------
+
+2. HERO SECTION
+
+Large full screen hero section.
+
+Headline:
+"Full Stack Web Development Job Bootcamp"
+
+Sub headline:
+"6–8 Months Job Guarantee Program"
+
+Description:
+Train with industry experts from top MNCs and build real-world projects to become job-ready developers.
+
+Add background tech-themed image with gradient overlay.
+
+Buttons:
+
+Primary button:
+Enroll Now
+
+Secondary button:
+Download Brochure
+
+Use smooth entrance animations.
+
+------------------------------------------------
+
+3. WHY SOFTWARE DEVELOPMENT (INDIA TECH FUTURE)
+
+Section explaining the opportunity in tech.
+
+Cards:
+
+$500 Billion Tech Industry by 2030
+
+2x Startup Growth
+
+68,000+ Tech Startups
+
+Global Hub for Innovation
+
+Use animated statistics counters.
+
+------------------------------------------------
+
+4. PROGRAM JOURNEY (6 MONTH ROADMAP)
+
+Create a vertical roadmap timeline with animations.
+
+Stages:
+
+Frontend Development
+HTML
+CSS
+JavaScript
+
+Advanced Frontend
+React JS
+
+Backend
+Node JS
+
+Database
+MongoDB
+
+DSA & Problem Solving
+
+AI Tools for Developers
+
+Interview Preparation
+
+Placement Support
+
+Use timeline animations.
+
+------------------------------------------------
+
+5. AI MODULE
+
+Cards explaining:
+
+Prompt Engineering
+
+Using AI Tools in Development
+
+Debugging AI Generated Code
+
+Understanding AI Limitations
+
+Show tools logos:
+
+ChatGPT
+Gemini
+GitHub Copilot
+
+------------------------------------------------
+
+6. REAL WORLD PROJECTS
+
+Grid cards showing projects:
+
+Social Media Platform
+Music Player App
+Authentication System
+Photo Sharing App
+Job Portal
+Stock Market Analysis
+
+Each card should have hover animations.
+
+------------------------------------------------
+
+7. CURRENT ONGOING INTERNSHIPS
+
+Showcase current internships.
+
+Offline Internship
+SJDC College
+
+Programs:
+
+Full Stack Development
+Data Analysis
+DevOps
+
+Display student activity images.
+
+------------------------------------------------
+
+8. DIGITAL PARTNERS
+
+Logo section.
+
+Partners:
+
+Ashoka
+Saachi
+Industry mentors
+Developer communities
+
+Use grayscale logos with hover color effect.
+
+------------------------------------------------
+
+9. PAST ACHIEVEMENTS
+
+Create animated achievement cards.
+
+500+ Students Trained
+
+100+ Projects Completed
+
+Industry Workshops Conducted
+
+Hackathons Organized
+
+Coding Competitions
+
+------------------------------------------------
+
+10. EVENTS AND PRESENTATIONS
+
+Gallery section showing:
+
+Workshops
+College Seminars
+Hackathons
+Expert Talks
+Coding Contests
+
+Use image grid layout with hover zoom effect.
+
+------------------------------------------------
+
+11. TRAINERS FROM TOP MNCS
+
+Section highlighting trainers.
+
+Text:
+
+Learn from experienced engineers working in top multinational companies.
+
+They bring real-world experience, industry practices, and modern technologies directly to students.
+
+Show trainer cards.
+
+------------------------------------------------
+
+12. CALL TO ACTION
+
+Large section encouraging students.
+
+Headline:
+
+Start Your Tech Career Today
+
+Text:
+
+Join the EVITernship Job Bootcamp and become an industry-ready developer.
+
+Buttons:
+
+Enroll Now
+Download Brochure
+
+------------------------------------------------
+
+13. CONTACT SECTION
+
+Phone:
+9494333702
+
+Email:
+team@eviternship.com
+
+Add contact icons.
+
+------------------------------------------------
+
+14. FOOTER
+
+Logo
+Quick links
+Programs
+Contact information
+
+Social icons:
+LinkedIn
+Instagram
+YouTube
+
+------------------------------------------------
+
+Animations Required:
+
+Fade in on scroll
+Card hover effects
+Timeline animation
+Number counters
+Smooth transitions
+
+------------------------------------------------
+
+Responsiveness:
+
+Mobile-first design.
+
+Ensure layout adapts well for mobile.
+
+Navbar collapses into hamburger menu.
+
+Cards stack vertically on mobile.
+
+------------------------------------------------
+
+Add floating WhatsApp button.
+
+------------------------------------------------
+
+Make the design look modern, professional, and appealing to college students.
